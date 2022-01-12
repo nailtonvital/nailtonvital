@@ -2,8 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailtonvital&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonvital&layout=compact&theme=dark)
 
-- I’m currently learning JS and SQL
-- Full-Stack as goal.
+- Full-Stack as a goal.
 - Self-Taught
 
 <h1>
