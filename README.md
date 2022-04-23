@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" style="vertical-align:top; margin:6px 4px">
@@ -33,3 +33,14 @@
   
 </p>
 <h1>
+  
+### More: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nailtonvita/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.behance.net/nailtonvital/" target="_blank">
+    <img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank">
+  </a> 
+  
+</p>
