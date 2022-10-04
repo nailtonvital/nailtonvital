@@ -1,5 +1,4 @@
 ### Nailton Vital 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonvital&layout=compact&theme=dark)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nailtonvital&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h1>
