@@ -1,5 +1,7 @@
 ### Nailton Vital 
+<a href="https://github.com/nailtonvital"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonvital&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="nailton vital github status"></a><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nailtonvital&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 <h1>
 
