@@ -1,4 +1,4 @@
-![github-readme](https://user-images.githubusercontent.com/51789882/218503552-8784eeb0-b351-4b9c-90f9-ecbb844d2f26.png)
+![github-readme-1](https://user-images.githubusercontent.com/51789882/218550245-778c8453-c2d0-4cc6-98a6-e48e87b6e314.png)
 
 [![Nailton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nailtonvital&theme=github-compact)](https://github.com/nailtonvital/github-readme-activity-graph)
 <a href="https://github.com/nailtonvital"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonvital&layout=compact&theme=dark&title_color=fff&text_color=fff&hide_border=true" alt="nailton vital github status"></a><br>
