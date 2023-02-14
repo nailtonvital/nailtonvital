@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/nailtonvita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  
-  <a href="https://www.behance.net/nailtonvita/" target="_blank">
+  <a href="https://www.behance.net/nailtonvital/" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.instagram.com/nailtonvital/" target="_blank">
