@@ -53,3 +53,8 @@
   
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
+
+## See my last project
+### Kuaihu: A Chinese learning app
+![kuaihu](https://github.com/nailtonvital/nailtonvital/assets/51789882/7c8e0d1f-8bba-4c87-bb58-49c8e1e5401a)
+
