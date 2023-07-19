@@ -1,5 +1,11 @@
-![github-readme-1](https://user-images.githubusercontent.com/51789882/218550245-778c8453-c2d0-4cc6-98a6-e48e87b6e314.png)
-<h1>
+### Kuaihu: A Chinese learning app
+
+<a href="https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz" target="_blank">
+   <img src="https://github.com/nailtonvital/nailtonvital/assets/51789882/7c8e0d1f-8bba-4c87-bb58-49c8e1e5401a">
+</a> 
+<a href="https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz" target="_blank">
+Google Play Download
+  </a> 
 
 ### Skills: 
 <p align="left">
@@ -54,12 +60,4 @@
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
 
-## See my last project
-### Kuaihu: A Chinese learning app
 
-<a href="https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz" target="_blank">
-   <img src="https://github.com/nailtonvital/nailtonvital/assets/51789882/7c8e0d1f-8bba-4c87-bb58-49c8e1e5401a">
-</a> 
-<a href="https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz" target="_blank">
-Google Play
-  </a> 
