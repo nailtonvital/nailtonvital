@@ -22,21 +22,22 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a> 
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native" style="vertical-align:top; margin:6px 4px">
   </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-  
+<a href="#">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" style="vertical-align:top; margin:6px 4px">
+  </a> 
+ 
 </p>
-<h1>
   
 ### More: 
 <p align="left">
@@ -50,8 +51,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </p>
-  
-### Profile Views:
+<img src="https://wakatime.com/badge/user/ed3bd392-07f2-4727-84f1-82d989b44906.svg">  
+
+### Profile views: 
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
 
 
