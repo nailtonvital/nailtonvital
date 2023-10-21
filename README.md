@@ -39,6 +39,7 @@
 <h1>
   
 ### More: 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nailtonvita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
@@ -50,6 +51,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/ed3bd392-07f2-4727-84f1-82d989b44906.svg)](https://wakatime.com/@ed3bd392-07f2-4727-84f1-82d989b44906)
   
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
