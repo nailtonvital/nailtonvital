@@ -1,5 +1,5 @@
 ### Kuaihu: A Chinese learning app
-[![Legenda](https://github-production-user-asset-6210df.s3.amazonaws.com/51789882/250612024-7c8e0d1f-8bba-4c87-bb58-49c8e1e5401a.png)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
+[![Legenda](https://github.com/nailtonvital/nailtonvital/assets/51789882/e4ab3089-f54a-4561-b73f-b21408e49d00)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
 
 ### Skills: 
 <p align="left">
@@ -39,7 +39,6 @@
 <h1>
   
 ### More: 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nailtonvita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
@@ -51,8 +50,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/ed3bd392-07f2-4727-84f1-82d989b44906.svg)](https://wakatime.com/@ed3bd392-07f2-4727-84f1-82d989b44906)
   
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
