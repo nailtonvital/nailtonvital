@@ -38,6 +38,8 @@
   </a> 
  
 </p>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailtonvital&theme=dark&hide_border=false"/>
   
 ### More: 
 <p align="left">
