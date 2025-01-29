@@ -1,15 +1,16 @@
+## Awards
 ### FIAP Next (Nov/2024) - 2nd place
 [![fiap-winner-banner](https://github.com/user-attachments/assets/e1062406-fff4-4941-a9c3-bc416531bc1a)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-gostaria-de-compartilhar-activity-7256481212242771968-laYz)
 
 ### FIAP Global Solutions (Jun/2024) - 1st place
 [![gs24-winner-banner](https://github.com/user-attachments/assets/fb2a9e57-88d6-409f-8da9-9ee7a3f0c294)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-estou-muito-feliz-em-compartilhar-activity-7247387887145541632-Qsn_/)
 
-
+## Apps
 ### Kuaihu: A Chinese learning app
 [![kuaihu-banner](https://github.com/nailtonvital/nailtonvital/assets/51789882/e4ab3089-f54a-4561-b73f-b21408e49d00)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
 
 
-### Skills: 
+## Skills: 
 <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" style="vertical-align:top; margin:6px 4px">
@@ -48,7 +49,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </p>
-<img src="https://wakatime.com/badge/user/ed3bd392-07f2-4727-84f1-82d989b44906.svg">  
 
 ### Profile views: 
 <img src="https://profile-counter.glitch.me/nailtonvital/count.svg">  
