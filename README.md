@@ -1,9 +1,9 @@
 ## Awards
 ### FIAP Next (Nov/2024) - 2nd place
-[![fiap-winner-banner](https://github.com/user-attachments/assets/e1062406-fff4-4941-a9c3-bc416531bc1a)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-gostaria-de-compartilhar-activity-7256481212242771968-laYz)
+[![fiap-winner-banner](https://github.com/user-attachments/assets/ca89b06e-0a49-44ed-9684-4600e09c3f14)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-gostaria-de-compartilhar-activity-7256481212242771968-laYz)
 
 ### FIAP Global Solutions (Jun/2024) - 1st place
-[![gs24-winner-banner](https://github.com/user-attachments/assets/ca6f8c9d-8b62-41c9-992a-87d376f2952c)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-estou-muito-feliz-em-compartilhar-activity-7247387887145541632-Qsn_/)
+[![gs24-winner-banner](https://github.com/user-attachments/assets/e96a0267-51e1-496a-b1d3-386cfc8ff039)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-estou-muito-feliz-em-compartilhar-activity-7247387887145541632-Qsn_/)
 
 
 ## Projects
