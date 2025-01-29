@@ -5,7 +5,7 @@
 ### FIAP Global Solutions (Jun/2024) - 1st place
 [![gs24-winner-banner](https://github.com/user-attachments/assets/fb2a9e57-88d6-409f-8da9-9ee7a3f0c294)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-estou-muito-feliz-em-compartilhar-activity-7247387887145541632-Qsn_/)
 
-## Apps
+## Projects
 ### Kuaihu: A Chinese learning app
 [![kuaihu-banner](https://github.com/nailtonvital/nailtonvital/assets/51789882/e4ab3089-f54a-4561-b73f-b21408e49d00)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
 
