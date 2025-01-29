@@ -1,5 +1,9 @@
+### FIAP Next (Nov/2024) - 2nd place prize
+![fiap-winner-banner](https://github.com/user-attachments/assets/e1062406-fff4-4941-a9c3-bc416531bc1a)
+
 ### Kuaihu: A Chinese learning app
-[![Legenda](https://github.com/nailtonvital/nailtonvital/assets/51789882/e4ab3089-f54a-4561-b73f-b21408e49d00)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
+[![kuaihu-banner](https://github.com/nailtonvital/nailtonvital/assets/51789882/e4ab3089-f54a-4561-b73f-b21408e49d00)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
+
 
 ### Skills: 
 <p align="left">
