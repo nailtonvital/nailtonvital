@@ -14,20 +14,24 @@
 ## Skills: 
 <p align="left">
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="JS" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   </a> 
   <a href="#">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="react-native" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  
 
   <a href="#">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
