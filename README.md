@@ -34,12 +34,8 @@
 
   <a href="#">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
- 
+  </a>  
 </p>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailtonvital&theme=dark&hide_border=false"/>
   
 ### More: 
 <p align="left">
