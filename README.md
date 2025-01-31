@@ -5,15 +5,6 @@
 ### FIAP Global Solutions (Jun/2024) - 1st place
 [![gs24-winner-banner](https://github.com/user-attachments/assets/e96a0267-51e1-496a-b1d3-386cfc8ff039)](https://www.linkedin.com/posts/nailtonvital_ol%C3%A1-pessoal-estou-muito-feliz-em-compartilhar-activity-7247387887145541632-Qsn_/)
 
-## Freelancers
-### Chatbot for Whatsapp with Computer Vision - (Node.js - SQLite - Ubuntu VPS)
-![whatsapp-chatbot](https://github.com/user-attachments/assets/3fb04ba6-e70f-4051-9f97-a9fbbeb373d9)
-
-
-### Mandarin course website - (Wordpress - Elementor)
-![mandarin-course-redesign](https://github.com/user-attachments/assets/13ffac77-100a-46d9-90e0-e9b08c5b5f39)
-
-
 ## Projects
 ### Kuaihu: A Chinese learning app (Feb 2023 - July 2023) - (React Native - Expo)
 [![kuaihu-banner](https://github.com/user-attachments/assets/ac580baa-dace-47f9-86df-e5d4ec5fbee2)](https://play.google.com/store/apps/details?id=com.nailtonvital.chinesequiz)
